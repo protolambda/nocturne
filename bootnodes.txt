@@ -1,0 +1,9 @@
+# Nocturne testnet bootnodes
+# ---------------------------------------
+# 1. Tag nodes with maintainer
+# 2. Keep nodes updated
+# 3. Review PRs: check ENR duplicates, fork-digest, connection.
+
+# proto bootnode0 (discv5, no full beacon node)
+# TODO
+
