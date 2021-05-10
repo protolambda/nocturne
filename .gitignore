@@ -1,6 +1,5 @@
 # ignored. Used to generate configs. Contain private info like mnemonics.
 mergenet.yaml
 genesis_validators.yaml
-tranches
 *.asc
 venv
